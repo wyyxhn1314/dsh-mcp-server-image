@@ -1,6 +1,6 @@
 {
   "name": "dsh-mcp-server-image",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generic OpenAI-compatible image-generation MCP server (stdio) for DeepSeek Harness and any MCP client",
   "type": "module",
   "bin": {
@@ -21,6 +21,14 @@
     "dall-e"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyyxhn1314/dsh-mcp-server-image.git"
+  },
+  "homepage": "https://github.com/wyyxhn1314/dsh-mcp-server-image",
+  "bugs": {
+    "url": "https://github.com/wyyxhn1314/dsh-mcp-server-image/issues"
+  },
   "engines": {
     "node": ">=22.10"
   }
